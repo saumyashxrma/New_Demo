@@ -4,7 +4,8 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>Anumpriyam</h1>   
+      <h1>Anumpriyam</h1>  
+      <p>Edge computing fundamentals</p>
     </>
   )
 }
